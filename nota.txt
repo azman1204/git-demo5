@@ -1,0 +1,14 @@
+cd - change dir
+cd ../..
+pwd - show curr dir
+ls - list file / folder
+
+http://jomdemy.com/git_tutorial.pdf
+
+touch - create file
+ls -al - show all file included hidden
+git commit -m "message..."
+
+sekali shj dlm satu PC
+git config --global user.name "Azman Zakaria"
+git config --global user.email "azman1204@yahoo.com"
