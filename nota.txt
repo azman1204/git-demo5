@@ -12,3 +12,4 @@ git commit -m "message..."
 sekali shj dlm satu PC
 git config --global user.name "Azman Zakaria"
 git config --global user.email "azman1204@yahoo.com"
+
